@@ -18,7 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Landing page for a fictional book publishing company. The website will dislay its newest title (a short novella), about us page, and contact page and an email subscribe palce holder. 
 
 ## Wireframes
 
