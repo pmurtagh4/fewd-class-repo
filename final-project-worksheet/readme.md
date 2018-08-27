@@ -21,9 +21,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 Landing page for a fictional book publishing company. The website will dislay its newest title (a short novella), about us page, and contact page and an email subscribe palce holder. 
 
 ## Wireframes
-
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
-
+The link provided is a one page wireframe for the Landing page for my fictional book publishing company website. I wanted to have a simple, modern look and feel that is relevent to the idea of the fictional book. The landing page consist of a main header, in which will show the title of the publishing company, then underneath that a subtitle of the announcement of the new title. At the top of this section, I am hoping to had a colorful top bar to give the site some more flare. The main section will then have a background image of the cover of a book. The next section of the site will be about the book and what type of story it is (i.e a synoposis of the book). Then underneath that section will be another section, but it will be an about section on the fictional company. Then finally, there will be a footer in which I will have the icons of twitter and instagram display to give social proof. 
+Here is the link to the one-page draw up: https://res.cloudinary.com/dod6u4bjy/image/upload/v1535387290/GA_-_Final_Project_Wireframe.jpg
 ## Priority Matrix
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
