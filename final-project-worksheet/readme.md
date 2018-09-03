@@ -8,8 +8,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|August 21st| Project Description | Incomplete
-|August 28th| Wireframes / Priority Matrix / Functional Components | Incomplete
+|August 21st| Project Description | Complete
+|August 28th| Wireframes / Priority Matrix / Functional Components | Complete
 |Sep 4th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Sep 11th| Minimal Viable Product | Incomplete
 |Sep 18th| Styling / Bug Fixes | Incomplete
@@ -28,7 +28,7 @@ Here is the link to the one-page draw up: https://res.cloudinary.com/dod6u4bjy/i
 Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
 
 ### MVP/PostMVP - 5min
-
+Here is a link to a draft of the project. Since this is a draft, I have not completed it. I just laid out what I want the final project to look like with some notes as to what I will be adding. (https://codepen.io/pmurtagh4/pen/GXNzrJ)
 The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
