@@ -33,10 +33,9 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP 
 
-- Find and use external api 
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+Here is the link to the final project with beginning Javascript (written in Psuedo code). I have commented out the actual Javascript for now. 
+
+https://codepen.io/pmurtagh4/pen/GXNzrJ
 
 #### PostMVP 
 
