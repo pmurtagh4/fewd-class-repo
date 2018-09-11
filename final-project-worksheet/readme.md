@@ -29,11 +29,10 @@ Include a full list of features that have been prioritized based on the `Time an
 
 ### MVP/PostMVP - 5min
 Here is a link to a draft of the project. Since this is a draft, I have not completed it. I just laid out what I want the final project to look like with some notes as to what I will be adding. (https://codepen.io/pmurtagh4/pen/GXNzrJ)
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
 
 #### MVP 
 
-Here is the link to the final project with beginning Javascript (written in Psuedo code). I have commented out the actual Javascript for now. 
+Here is the link to the final project with beginning Javascript (written in Psuedo code). I have commented out the actual Javascript for now. For the Javascript, I will be having, some of the paragraphs on the webpage change color as the mouse hovers over them. I aslo will be using an Animate effect for the Heading 1 to be flashing. 
 
 https://codepen.io/pmurtagh4/pen/GXNzrJ
 
