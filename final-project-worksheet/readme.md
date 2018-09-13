@@ -18,23 +18,25 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Landing page for a fictional book publishing company. The website will dislay its newest title (a short novella), about us page, and contact page and an email subscribe palce holder. 
+Landing page for a fictional book publishing company. The website will dislay its newest title (a short novella), about the book page, and about the studio page and an email subscribe palce holder. 
 
 ## Wireframes
-The link provided is a one page wireframe for the Landing page for my fictional book publishing company website. I wanted to have a simple, modern look and feel that is relevent to the idea of the fictional book. The landing page consist of a main header, in which will show the title of the publishing company, then underneath that a subtitle of the announcement of the new title. At the top of this section, I am hoping to had a colorful top bar to give the site some more flare. The main section will then have a background image of the cover of a book. The next section of the site will be about the book and what type of story it is (i.e a synoposis of the book). Then underneath that section will be another section, but it will be an about section on the fictional company. Then finally, there will be a footer in which I will have the icons of twitter and instagram display to give social proof. 
-Here is the link to the one-page draw up: https://res.cloudinary.com/dod6u4bjy/image/upload/v1535387290/GA_-_Final_Project_Wireframe.jpg
+The link provided is a one page wireframe for the Landing page for my fictional book publishing company website. I wanted to have a simple, modern look and feel that is relevent to the idea of the fictional book. The landing page consist of a main header, in which will show the title of the book. There will also be a navigation to about pages, and will also have a Javascript countdown displayed under neath the header. There are also two additional pages, and about the book page which gives a description about the book and also an about page about the fictional studio. Here are the links to the wireframes:
+https://res.cloudinary.com/dod6u4bjy/image/upload/v1536804195/homepage.jpg
+https://res.cloudinary.com/dod6u4bjy/image/upload/v1536804195/about_the_book.jpg
+https://res.cloudinary.com/dod6u4bjy/image/upload/v1536804195/about_the_studio.jpg
 ## Priority Matrix
 
 Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
 
 ### MVP/PostMVP - 5min
-Here is a link to a draft of the project. Since this is a draft, I have not completed it. I just laid out what I want the final project to look like with some notes as to what I will be adding. (https://codepen.io/pmurtagh4/pen/GXNzrJ)
+Here is a link to a draft of the project. Since this is a draft, I have not completed it. I just laid out what I want the final project to look like with some notes as to what I will be adding. (https://codepen.io/pmurtagh4/pen/GXdjMB)
 
 #### MVP 
 
-Here is the link to the final project with beginning Javascript (written in Psuedo code). I have commented out the actual Javascript for now. For the Javascript, I will be having, some of the paragraphs on the webpage change color as the mouse hovers over them. I aslo will be using an Animate effect for the Heading 1 to be flashing. 
+Here is the link to the final project with beginning Javascript (written in Psuedo code). . For the Javascript, I will be including a countdown timer, as well as having the timer flash
 
-https://codepen.io/pmurtagh4/pen/GXNzrJ
+https://codepen.io/pmurtagh4/pen/GXdjMB
 
 #### PostMVP 
 
