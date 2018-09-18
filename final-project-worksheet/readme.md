@@ -12,7 +12,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |August 28th| Wireframes / Priority Matrix / Functional Components | complete
 |Sep 4th| External API(s) Decision / Core Application Structure (HTML, CSS, etc.) | complete
 |Sep 11th| Minimal Viable Product | Complete
-|Sep 18th| Styling / Bug Fixes | Incomplete
+|Sep 18th| Styling / Bug Fixes | Complete
 |Sep 25th| Presentations 
 
 
@@ -40,7 +40,9 @@ https://codepen.io/pmurtagh4/pen/GXdjMB
 
 #### PostMVP 
 
-- Add user auth
+For Homework due the 18th, I added the Javascript count down timer I was looking to do. Although it doesn't look "pretty" yet, that is my goal for this week is to finish making the site look more appealing. Below is the link to the codepen with the added Javascript
+
+https://codepen.io/pmurtagh4/pen/GXdjMB
 
 ## Functional Components
 
